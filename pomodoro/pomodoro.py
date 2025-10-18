@@ -4,18 +4,14 @@ from playsound import playsound
 
 init(autoreset=True)
 
-# 🕒 Pomodoro Timer (Focus App)
 print(Fore.YELLOW + "=================================")
 print(Fore.YELLOW + "======== Pomodoro Timer  ========")
 print(Fore.YELLOW + "=================================\n")
 
-# Ask user for work time (in minutes)
 user = int(input(Fore.GREEN + "⏳ How many minutes do you want to work?: "))
 
-# Convert minutes to seconds
 seconds = user * 60
 
-# Countdown
 for i in range(seconds, 0, -1):
     bar_length = 20
     progress = int((seconds - i) / seconds * bar_length)
