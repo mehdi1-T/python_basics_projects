@@ -1,0 +1,20 @@
+1   simple arithmetic calculator 🧮
+#2   weight conversion 🏋️
+#3   temperature conversion 🌡️
+#4   email slicer program 📧
+#5   compound interest calculator 💵 
+#6   countdown timer ⌛ 
+#7   shopping cart program 🛒
+#8   quiz game 💯 
+#9   concession stand program 🍿
+#10 number guessing game 🔢 
+#11 rock, paper, scissors game 🗿 
+#12 dice roller program ⚂ 
+#13 encryption program 🔐 
+#14 banking program 💰 
+#15 slot machine 🎰 
+#16 hangman game 🕺 
+#17 alarm clock ⏰ 
+#18 digital clock 🕒 
+#19 stopwatch ⏱ 
+#20 weather app ☀️
